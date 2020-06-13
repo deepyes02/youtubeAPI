@@ -1,0 +1,4 @@
+npx create-react-app youtubemock
+
+installing dependencies:
+youtube api: AIzaSyAuz07X0fjaJsy11Gp6F5afSZ9TouHrlgA
