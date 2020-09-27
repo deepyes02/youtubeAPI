@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    overflow-x:hidden;
+}
+body{
+    background-color:rgb(233, 222, 222);
+    color:rgb(121, 138, 35);
+}
+.container{
+    padding: 10px;
+}
+
+.heading{
+    padding: 10px;
+}
+
+.myLogo{
+    height: 80px;
+    display:block;
+    margin: 0 0 0 auto;
+}

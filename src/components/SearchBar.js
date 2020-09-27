@@ -17,7 +17,7 @@ class SearchBar extends React.Component {
     return(
       <Paper elevation={2} style={{padding:'15px'}}>
         <form onSubmit={this.handleSubmit}>
-          <TextField fullWidth label="Search..." onChange={this.handleChange}/>
+          <TextField fullWidth label="Search" onChange={this.handleChange}/>
         </form>
       </Paper>
     )
