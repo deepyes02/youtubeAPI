@@ -1,4 +1,13 @@
-##Connecting YOUTUBE API
-Many companies are simply embedding Youtube code into their webpages. I think making use of API is better since there is more control and customization.
+# Connecting YOUTUBE API into the native webapp using React #
 
-This was a good learning exprience overall.
+Use modern tools and techniques to project Youtube into the web browser.
+
+## Version 1.1 ##
+-  
+
+
+
+## Version 1.0 ##
+
+
+## Updating Packages and minor bugs according to security vulnerabilites ##
